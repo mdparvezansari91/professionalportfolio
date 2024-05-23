@@ -1,0 +1,31 @@
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #1b2430;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.footercontent{
+    width: 60%;
+    text-align: left;
+    padding-left: 10px;
+}
+.visitinglinks{
+    position: relative;
+    align-items: center;
+
+}
+
+
+.visitinglinks li{
+    list-style: none;
+    display: flex;
+    
+    
+}

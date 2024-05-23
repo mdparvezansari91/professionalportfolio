@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    
+}
+
+
+.skills{
+    background-color: antiquewhite;
+    height: fit-content;
+    padding: 50px;
+}
+
+.skills h1{
+    font-size: 5rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.skillslist li{
+    list-style: none;
+    text-align: left;
+    font-weight: 500;
+    
+    
+
+}
